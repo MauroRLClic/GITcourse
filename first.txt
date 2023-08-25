@@ -1,1 +1,5 @@
-este es un texto del curso de git y gitbug
+este es un texto del curso de git y gitbug 
+
+este es el cambio
+
+aca vamos a incluir otro cambio a ver si si se refleja
